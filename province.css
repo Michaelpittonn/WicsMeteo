@@ -10,7 +10,7 @@ table,tr,td,th{
 }
 
 th{
-    background:red;
+    background:rgb(0, 255, 162);
     color: white;
 }
 
